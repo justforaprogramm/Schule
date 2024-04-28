@@ -36,7 +36,7 @@ nach bsp.:
 wenn dies als flieskommazahl dargestellt werden soll, steht bei den exponenten bits,<br>
 die hochzahl der größten 1, sprich <b>2^3</b>.
 
-da `1000`... immer `2^1` ist, ist 2^3= ```1010```.
+da `10000`... immer `2^1` ist, ist 2^3= ```10010```.
 
 ## mantisse:
 
@@ -47,7 +47,7 @@ da wir im exponenten 2 tiefer gehen muss unsere 1 die zweite stelle bei den mant
 -> ```0100000000```
 
 ## zummenfassung:
-```0 1010 0100000000```
+```0 10010 0100000000```
 das ist die zahl 10 in float darstellung.
 
 daran sieht man auch das die genauigkeit von der höhe des ersten exponenten abhängt.
