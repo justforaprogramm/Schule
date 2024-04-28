@@ -22,8 +22,6 @@ Daher sind auch zwei Nullen möglich.
 daher ```0```
 
 ## exponenten bits:
-Diese bits sind wichtig um zu ermitteln in welcher zweier potenz die zahl spielt.
-es ist die höchste zahl beim convertieren.
 
 nach bsp.:
 
