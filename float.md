@@ -60,9 +60,9 @@ daran sieht man auch das die genauigkeit von der höhe des ersten exponenten abh
 
 ## versuchs mal selber:
 
-64 -> b
-1.1 -> b
-5.75 -> b
+64 -> b<br>
+1.1 -> b<br>
+5.75 -> b<br>
 
 0 00101 0100000000 -> d
 
