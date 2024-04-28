@@ -40,7 +40,7 @@ da `10000`... immer `2^1` ist, ist 2^3= ```10010```.
 
 ## mantisse:
 
-in der mantisse wird immer `2^n-1` gerechnet für jedes bit nach links.<br>
+in der mantisse wird immer `2^n-1` gerechnet für jedes bit nach rechts.<br>
 da im exponent ´1000 = 2^3´ dargestellt wurde, muss noch ´10 = 2^1´ dargestellt werden.<br>
 
 da wir im exponenten 2 tiefer gehen muss unsere 1 die zweite stelle bei den mantissen bits sein.<br>
