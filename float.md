@@ -55,5 +55,5 @@ daran sieht man auch das die genauigkeit von der höhe des ersten exponenten abh
 2 bsp.:
 ```-2,75```<br>
 <br>
-```1 00001 1100000000```<br>
-```- --2^1 2^0 + 2^-1 = 2 + 0.5 + 0,25 = (-)2,75```
+```1 00001 0110000000```<br>
+```-  2^1   2^-1+2^-2 = 2 + 0.5 + 0,25 = (-)2,75```
