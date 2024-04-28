@@ -57,3 +57,11 @@ daran sieht man auch das die genauigkeit von der höhe des ersten exponenten abh
 <br>
 ```1 00001 0110000000```<br>
 ```-  2^1   2^-1+2^-2 = 2 + 0.5 + 0,25 = (-)2,75```
+
+## versuchs mal selber:
+
+64 -> b
+1.1 -> b
+5.75 -> b
+
+0 00101 0100000000 -> d
