@@ -48,7 +48,14 @@ da wir im exponenten 2 tiefer gehen muss unsere 1 die zweite stelle bei den mant
 
 ## zummenfassung:
 ```0 10010 0100000000```<br>
+```+ --2^3 -------2^1```<br>
 ```+ ----8 ---------2 = 8+2 =10```<br>
 das ist die zahl 10 in float darstellung.
 
 daran sieht man auch das die genauigkeit von der höhe des ersten exponenten abhängt.
+
+2 bsp.:
+```-2,75```<br>
+
+```1 00001 1100000000```
+```- --2^1 2^0 + 2^-1 = 2 + 0.5 + 0,25 = (-)2,75```
