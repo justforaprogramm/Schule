@@ -65,3 +65,5 @@ daran sieht man auch das die genauigkeit von der höhe des ersten exponenten abh
 5.75 -> b
 
 0 00101 0100000000 -> d
+
+(converter)[https://www.h-schmidt.net/FloatConverter/IEEE754de.html]
